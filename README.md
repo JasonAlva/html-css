@@ -1,5 +1,4 @@
-# A Chair Website
-  Its just a basic CSS project to build frontend .
+
 
 ## Preview
 
